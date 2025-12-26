@@ -5,7 +5,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
-## Project Requirements
+##🚀  Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -33,10 +33,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## License
+## 🛡️ License
 
 This project is licensed under the[MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## About
+##⭐  About
 
-Hi there! I'm **Sai Nikitha Vanum**, 
+Hi there! I'm **Sai Nikitha Vanum** 
